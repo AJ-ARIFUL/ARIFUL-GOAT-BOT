@@ -16,11 +16,11 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'MAHBUB ULLASH',
+      name: 'ARIFUL ISLAM JIM',
       gender: 'Male',
-      age: '21+',
+      age: '18',
       height: 'Unknown',
-      facebookLink: 'https://www.facebook.com/CYBER.ULLASH',
+      facebookLink: 'https://www.facebook.com/share/1AjyFK5C8E/',
       nick: 'ULLASH\n\n𝐅𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐯𝐢𝐬𝐢𝐭: https://mahbub-ullash.cyberbot.top'
     };
 

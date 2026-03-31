@@ -39,7 +39,7 @@ module.exports = {
       if (seconds < 10) seconds = "0" + seconds;
 
       var ZiaRein = `
-𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 Ullash ッ
+𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 JIM ッ
 ────────────────────────────────────
 𝗠𝗼𝗱𝗲𝗹: ${manufacturer} ${brand}
 𝗦𝗽𝗲𝗲𝗱: ${speed}GHz

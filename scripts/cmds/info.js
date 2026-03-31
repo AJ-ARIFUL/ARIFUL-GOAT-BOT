@@ -17,13 +17,13 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ULLASHInfo = {
-				name: '𝐮 𝐥 𝐥 𝐚 𝐬 𝐡 ッ',
+				name: 'ARIFUL ISLAM ッ',
 				gender: '𝐌𝐚𝐥𝐞',
-				age: '21',
-				Tiktok: 'ullash01',
-				Relationship: '𝐢𝐧 𝐜𝐨𝐦𝐩𝐥𝐢𝐜𝐚𝐭𝐞𝐝',
-				religion: '𝐈𝐬𝐥𝐚𝐦',
-				facebook: 'https://www.facebook.com/profile.php?id=100086680386976'
+				age: '18',
+				Tiktok: 'mdariful_1110',
+				Relationship: 'single',
+				religion: 'Islam',
+				facebook: 'https://www.facebook.com/share/1C4k2fiyR1/'
 			};
 
 			const ULLASH = 'https://files.catbox.moe/do2kb3.jpeg';

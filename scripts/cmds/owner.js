@@ -21,10 +21,10 @@ config: {
       age: '18',
       height: 'Unknown',
       facebookLink: 'https://www.facebook.com/share/1AjyFK5C8E/',
-      nick: 'ULLASH\n\n𝐅𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐯𝐢𝐬𝐢𝐭: https://mahbub-ullash.cyberbot.top'
+      nick: 'ULLASH\n\n𝐅𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐯𝐢𝐬𝐢𝐭: https:////mahbub-ullash.cyberbot.top'
     };
 
-    const bold = 'https://files.catbox.moe/1dwo7j.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://files.catbox.moe/osndrb.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 

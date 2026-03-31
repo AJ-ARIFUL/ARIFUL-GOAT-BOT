@@ -46,7 +46,7 @@ react.includes("SawYa") ||
 react.includes("Sawya") || 
 react.includes("tor mare xudi") || react.includes("vuda") || react.includes("heda") || react.includes("bap")) {
 		var msg = {
-				body: "━━━━━━━━━━━━━━━━━━━━\n╭┈ ❒ 💬 | 𝐌𝐄𝐒𝐒𝐄𝐆𝐄:\n╰┈➤ এখানে গালাগালি করলে মুখ সেলাই কইরা দিমু..!!😾\n গালাগালি বা খারাপ কথা বলো না কারণ মৃ√×ত্যুর তোমার প্রতিটি কাজকর্মের হিসাব দিতেই হবে ।━━━━━━━━━━━━━━━━━━━━━━\n✿◕𝐁𝐎𝐓-𝐎𝐖𝐍𝐄𝐑: MAHBUB ULLASH"
+				body: "━━━━━━━━━━━━━━━━━━━━\n╭┈ ❒ 💬 | 𝐌𝐄𝐒𝐒𝐄𝐆𝐄:\n╰┈➤ এখানে গালাগালি করলে মুখ সেলাই কইরা দিমু..!!😾\n গালাগালি বা খারাপ কথা বলো না কারণ মৃ√×ত্যুর তোমার প্রতিটি কাজকর্মের হিসাব দিতেই হবে ।━━━━━━━━━━━━━━━━━━━━━━\n✿◕𝐁𝐎𝐓-𝐎𝐖𝐍𝐄𝐑: ARIFUL ISLAM JIM"
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("😠", event.messageID, (err) => {}, true)
